@@ -12,3 +12,7 @@
   .bg-#{$id} { background-color: $color; }
 }
 .bg-inherit { background-color: inherit; }
+
+@each $id, $color in $color-gradient {
+  .bg-#{$id} { background-image: $color; }
+}

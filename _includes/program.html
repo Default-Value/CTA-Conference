@@ -1,0 +1,28 @@
+<div class="border2 h10 relative z-2 mt-5"></div>
+<section id="program" class="bg-g2 relative z-2 pa4 pb10">
+  <h1 class="ma4 dn db-lg f1 ttu absolute text-rotate">Program</h1>
+  <div class="measure-extra-wide center pv6">
+    <h1 class="f4 tracked ttu tc mb12">Keynote Presentations</h1>
+    {% for speaker in site.data.program.keynote %}
+    <div class="mb20">
+      <div class="">
+        <h2 class="f2 f1-sm mb0 lh-1 fw8 tc">{{ speaker.title }}</h2>
+      </div>
+      <div class="flex flex-column flex-row-sm items-center mt6">
+        <img src="{{ speaker.photo }}" class="w25 h25 mr6 mr12-md bio1" />
+        <p class="ptserif f5 lh-3 mt6 mt0-sm">{{ speaker.bio }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <h1 class="f4 tracked ttu tc mb12">Focus Sessions</h1>
+  <div class="flex flex-wrap justify-center">
+  {% for speaker in site.data.program.focus %}
+    <div class="max-w48 mb8 mh8-sm flex flex-column items-center">
+      <img src="{{ speaker.photo }}" class="h24 w-60" />
+      <h2 class="f4 tc">{{ speaker.title }}</h2>
+      <p class="ptserif f5 lh-3 mv0 w-100">{{ speaker.description }}</p>
+    </div>
+  {% endfor %}
+
+</section>

@@ -3,6 +3,7 @@
 */
 
 .tracked { letter-spacing:  .1em; }
+.tracked-mini { letter-spacing:  .01em; }
 .tracked-tight { letter-spacing: -.05em; }
 .tracked-mega { letter-spacing:  .25em; }
 
@@ -10,6 +11,7 @@
   @each $bp-name, $bp-value in $breakpoints {
     @media (min-width: $bp-value) {
       .tracked-#{$bp-name} { letter-spacing:  .1em; }
+      .tracked-mini-#{$bp-name} { letter-spacing:  .05em; }
       .tracked-tight-#{$bp-name} { letter-spacing: -.05em; }
       .tracked-mega-#{$bp-name} { letter-spacing:  .25em; }
     }

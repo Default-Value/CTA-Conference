@@ -4,5 +4,20 @@ layout: default
 image:
 ---
 
-<h1 class="red">Default Value</h1>
-<img src="assets/images/placeholder.png" alt="">
+{% include navigation.html %}
+
+<section class="measure-extra-wide center fixed z-1 top-0 w-100 left-50 transform-center pa4">
+  <img src="/assets/images/logo.svg" class="mt8" />
+  <div class="flex flex-column flex-row-md justify-between items-center mt4">
+    <div class="f5 flex-none tc mb2 mb0-md">Call to Action 2017 East Coast Conference</div>
+    <div class="bb w-100 mh2 h0 dn db-md"></div>
+    <div class="f5 flex-none tc">October 20-21, 2017</div>
+  </div>
+</section>
+
+{% include intro.html %}
+{% include program.html %}
+{% include schedule.html %}
+{% include hotel.html %}
+{% include registration.html %}
+{% include footer.html %}

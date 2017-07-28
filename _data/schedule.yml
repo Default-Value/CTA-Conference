@@ -1,0 +1,96 @@
+friday:
+  - time: 6&#58;00pm
+    title: Event Registration and Social
+    expandable: false
+  - time: 7&#58;00pm
+    title: Plenary Session
+    expandable: true
+    items:
+      - text: Welcome
+      - text: Opening Prayer with Music and Song
+      - text: Introduction of Keynote Speaker, Sr. Simone Campbell
+      - text: Justice and Mercy Under the Trump Administration
+        type: keynote
+        name: Sr. Simone Campbell
+        description:
+      - text: Q&A with Table Conversation
+  - time: 8&#58;45pm
+    title: Announcements
+    expandable: false
+
+saturday:
+  - time: 7&#58;30am
+    title: Morning Prayer
+    expandable: false
+  - time: 8&#58;00am
+    title: Registration and Continental Breakfast
+    expandable: false
+  - time: 8&#58;30am
+    title: Plenary Session
+    expandable: true
+    items:
+      - text: Welcome and Opening Prayer
+      - text: Introduction of Keynote Speaker, Dr. Greer G. Gordon
+      - text: Racism in the Church and Society
+        name: Dr. Greer G. Gordon
+        description:
+        type: keynote
+      - text: Q&A with Table Conversation
+  - time: 10&#58;15am
+    title: Coffee and Tea Break
+    expandable: false
+  - time: 10&#58;30am
+    title: Focus Session 1
+    expandable: true
+    items:
+      - text: A. Immigration, Sanctuary, Human Rights for All
+        type: focus
+      - text: B. LGBTQ and the Welcome Church
+        type: focus
+      - text: C. Caring for the Earth; Our Common Home
+        type: focus
+      - text: D. Muslims and Jews&#58; Our Sisters and Brothers
+        type: focus
+  - time: 11&#58;45am
+    title: Break
+    expandable: false
+  - time: 12&#58;00pm
+    title: Lunch
+    expandable: false
+    items:
+      - text: Announcements
+      - text: Prayer with Music and Song
+  - time: 1&#58;00pm
+    title: Plenary Session
+    expandable: true
+    items:
+      - text: Introduction of Keynote Speaker, Sr. Patty Chappell
+      - text: Pax Christi&#58; Called to be a People of Peace
+        type: keynote
+        name: Sr. Patty Chappell
+        description:
+  - time: 2&#58;30pm
+    title: Break
+    expandable: false
+  - time: 2&#58;45pm
+    title: Focus Session 2
+    expandable: true
+    items:
+      - text: A. Immigration, Sanctuary, Human Rights for All
+        type: focus
+      - text: B. Transgender, Intersex Identities, and the Family
+        type: focus
+      - text: C. Caring for the Earth; Our Common Home
+        type: focus
+      - text: D. Muslims and Jews&#58; Our Sisters and Brothers
+        type: focus
+  - time: 4&#58;00pm
+    title: Closing Session
+    expandable: false
+    items:
+      - text: Message from the CTA East Coast Planning Team
+      - text: Time for table conversation and your conference evaluation
+      - text: Greetings from Zach Johnson, CTA Executive Director
+  - time: 4&#58;45pm
+    title: Closing Comments and Prayer
+    expandable: false

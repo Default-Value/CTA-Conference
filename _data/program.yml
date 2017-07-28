@@ -1,0 +1,61 @@
+keynote:
+  - title: Justice and Mercy Under the Trump Administration
+    name: Sr. Simone Campbell, SSS
+    description: This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk.
+    photo: /assets/images/bio1.jpg
+    bio: >
+      <span class="fw8">Sr. Simone Campbell</span> is the Executive Director of NETWORK, a Catholic social justice lobby organization and founder of Nuns on the Bus. Sr. Simone addressed the 2012 National Democratic Convention. She has been featured in the national and international media including 60 Minutes, The Colbert Report, and others.
+  - title: Racism & Privilege in the Church and Society
+    name: Dr. Greer G. Gordon
+    description: This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk.
+    photo: /assets/images/bio2.jpg
+    bio: >
+      <span class="fw8">Dr. Greer G. Gordon</span> is a Roman Catholic theologian, author, and lecturer known for her work in the field of apologetics, evangelization, and catechetics. She’s served in administrative positions at the University of Massachusetts, St. Regis College. She was diocesan director in Washington D.C., Oakland, Boston, and Baton Rouge.
+  - title: Pax Christi&#58; Called to be a People of Peace
+    name: Sr. Patty Chappell, SNDdeN
+    description: This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk.
+    photo: /assets/images/bio3.jpg
+    bio: >
+      <span class="fw8">Sr. Patty Chappell</span> is the Executive Director of Pax Christi, USA., the largest Catholic Peace and Justice movement in the United States. She was president of the National Black Sisters Conference, 1996-2001. Sister Patty was trained by Crossroads in anti-racism training. In 2016, Sister brought the Pax Christi USA National Conference to Baltimore.
+focus:
+  - title: Immigration, Sanctuary, Human Rights for All
+    description: >
+      <ul>
+        <li class="f5 mt1">Attorney Mikhael Borgonos and Giuliana Valencia-Banks of the Esperanza Center</li>
+        <li class="f5 mt1">Florida Coalition of Immokalee Workers</li>
+        <li class="f5 mt1">Baltimore Sanctuary Movement</li>
+        <li class="f5 mt1">Latino Racial Justice Circle</li>
+      </ul>
+    photo: /assets/images/m1.svg
+  - title: LGBTQ and the Welcome Church<span class="f5 i"> 10:30am only</span>
+    description: >
+      <ul>
+        <li class="f5 mt1">Fr. Joe Muth</li>
+        <li class="f5 mt1">Fr. James Casciotti, S.J.</li>
+        <li class="f5 mt1">Members from LGBTQ Baltimore Parish Ministries</li>
+        <li class="f5 mt1">Special video will be shown</li>
+      </ul>
+    photo: /assets/images/m2.svg
+  - title: Caring for the Earth, Our Common Home
+    description: >
+      <ul>
+        <li class="f5 mt1">Patrick Carolan, Franciscan Action Network, will address &ldquoLaudato Si&rdquo</li>
+        <li class="f5 mt1">Joelle Novey, Interfaith Power & Light</li>
+        <li class="f5 mt1">Jodie Rose, Interfaith Partners for the Chesapeake</li>
+      </ul>
+    photo: /assets/images/m3.svg
+  - title: Challenges facing the Muslim Community
+    description: >
+      <ul>
+        <li class="f5 mt1">Dr. Zainab Chaudry, Council on American-Islamic Relations (CAIR)</li>
+        <li class="f5 mt1">panel members</li>
+      </ul>
+    photo: /assets/images/m4.svg
+  - title: Transgender, Intersex Identities, and the Family<span class="f5 i"> 2:45pm only</span>
+    description: >
+      <ul>
+        <li class="f5 mt1">Hilary Ranney Howes & Celestine Ranney Howes</li>
+        <li class="f5 mt1">Merrick Moises</li>
+        <li class="f5 mt1">Deacon Ray Dever & Lexi Dever</li>
+      </ul>
+    photo: /assets/images/m5.svg

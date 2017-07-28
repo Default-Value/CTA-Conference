@@ -1,0 +1,52 @@
+<div class="border3 h10 relative z-2 mt-5"></div>
+<section id="schedule" class="bg-g3 relative z-2 pa4 pb10">
+  <h1 class="ma4 dn db-lg f1 ttu absolute text-rotate">Schedule</h1>
+  <div class="measure-extra-wide center pv6">
+    <h1 class="f4 tracked ttu tc mb6">Friday, October 20</h1>
+    {% for item in site.data.schedule.friday %}
+      <div class="flex flex-column flex-row-xs items-start pv2 bb relative">
+        <div class="f3 f4-xs mr6 self-center mb2 mb0-xs">{{ item.time }}</div>
+        <div class="flex flex-column">
+          <div class="f4">{{ item.title }}</div>
+          <ul>
+          {% for thing in item.items %}
+            {% if thing.type == 'keynote' %}
+              <div class="mv2">
+                <div class="work f4 fw6">{{thing.name}}</div>
+                <div class="ptserif f5">{{thing.text}}</div>
+              </div>
+            {% elsif thing.type == 'focus' %}
+              <div class="work f4 fw6 mt1">{{thing.text}}</div>
+            {% else %}
+              <li class="ptserif f6 mt1 i">{{thing.text}}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        </div>
+      </div>
+    {% endfor %}
+    <h1 class="f4 tracked ttu tc mb6 mt12">Saturday, October 21</h1>
+    {% for item in site.data.schedule.saturday %}
+      <div class="flex flex-column flex-row-xs items-start pv2 bb relative">
+        <div class="f3 f4-xs mr6 self-center mb2 mb0-xs">{{ item.time }}</div>
+        <div class="flex flex-column">
+          <div class="f4">{{ item.title }}</div>
+          <ul>
+          {% for thing in item.items %}
+            {% if thing.type == 'keynote' %}
+              <div class="mv2">
+                <div class="work f4 fw6">{{thing.name}}</div>
+                <div class="ptserif f5">{{thing.text}}</div>
+              </div>
+            {% elsif thing.type == 'focus' %}
+              <div class="work f4 fw6 mt1">{{thing.text}}</div>
+            {% else %}
+              <li class="ptserif f6 mt1 i">{{thing.text}}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
