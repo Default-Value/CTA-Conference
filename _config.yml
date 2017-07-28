@@ -1,25 +1,23 @@
 ---
 ##### seo #####
-title: DV Jekyll boilerplate
-description:
+title: Justice & Mercy under the Trump Administration - CTA East Coast 2017
+description: CTA East Coast Conference 2017. Join us in Baltimore, MD on October 20–21, 2017.
 url:
 twitter:
-  username: _defaultvalue
+  username: CallToActionMD
 logo:
 social:
-  name: Default Value
+  name: Call to Action MD
   links:
-    - https://twitter.com/_defaultvalue
-    - https://www.facebook.com/_defaultvalue
-    - https://www.linkedin.com/company-beta/11151394/
-    - https://github.com/default-value
+    - https://twitter.com/CallToActionMD
+    - https://www.facebook.com/CTAMD
 webmaster_verifications:
   google: 1234
   bing: 1234
   alexa: 1234
 
 ##### etc #####
-ga_analytics: UA-96203809-1
+ga_analytics:
 imgix:
   source: imgix.net
 timezone: America/New_York
