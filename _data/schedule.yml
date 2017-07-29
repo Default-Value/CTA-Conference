@@ -1,6 +1,6 @@
 friday:
   - time: 6&#58;00pm
-    title: Event Registration and Social
+    title: Event Registration and Reception
     expandable: false
   - time: 7&#58;00pm
     title: Plenary Session
@@ -8,7 +8,7 @@ friday:
     items:
       - text: Welcome
       - text: Opening Prayer with Music and Song
-      - text: Introduction of Keynote Speaker, Sr. Simone Campbell
+      - text: Introduction
       - text: Justice and Mercy Under the Trump Administration
         type: keynote
         name: Sr. Simone Campbell
@@ -30,11 +30,12 @@ saturday:
     expandable: true
     items:
       - text: Welcome and Opening Prayer
-      - text: Introduction of Keynote Speaker, Dr. Greer G. Gordon
-      - text: Racism in the Church and Society
+      - text: Introduction
+      - text: Racism & Privilege in the Church and Society
         name: Dr. Greer G. Gordon
         description:
         type: keynote
+      - text: Presentation by Baltimore Racial Justice Circle
       - text: Q&A with Table Conversation
   - time: 10&#58;15am
     title: Coffee and Tea Break
@@ -45,11 +46,11 @@ saturday:
     items:
       - text: A. Immigration, Sanctuary, Human Rights for All
         type: focus
-      - text: B. LGBTQ and the Welcome Church
+      - text: B. LGBTQ and the Welcoming Church
         type: focus
-      - text: C. Caring for the Earth; Our Common Home
+      - text: C. Caring for the Earth, Our Common Home
         type: focus
-      - text: D. Muslims and Jews&#58; Our Sisters and Brothers
+      - text: D. Challenges facing the Muslim Community
         type: focus
   - time: 11&#58;45am
     title: Break
@@ -64,11 +65,13 @@ saturday:
     title: Plenary Session
     expandable: true
     items:
-      - text: Introduction of Keynote Speaker, Sr. Patty Chappell
+      - text: Introduction
       - text: Pax Christi&#58; Called to be a People of Peace
         type: keynote
         name: Sr. Patty Chappell
         description:
+      - text: Commentary by activist Sr. Megan Rice and author Dan Zak
+      - text: Q&A with Table Conversation
   - time: 2&#58;30pm
     title: Break
     expandable: false
@@ -80,17 +83,18 @@ saturday:
         type: focus
       - text: B. Transgender, Intersex Identities, and the Family
         type: focus
-      - text: C. Caring for the Earth; Our Common Home
+      - text: C. Caring for the Earth, Our Common Home
         type: focus
-      - text: D. Muslims and Jews&#58; Our Sisters and Brothers
+      - text: D. Challenges facing the Muslim Community
         type: focus
   - time: 4&#58;00pm
     title: Closing Session
     expandable: false
     items:
       - text: Message from the CTA East Coast Planning Team
-      - text: Time for table conversation and your conference evaluation
       - text: Greetings from Zach Johnson, CTA Executive Director
+        type: focus
+      - text: Time for table conversation and your conference evaluation
   - time: 4&#58;45pm
     title: Closing Comments and Prayer
     expandable: false

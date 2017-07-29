@@ -4,19 +4,21 @@ keynote:
     description: This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk.
     photo: /assets/images/bio1.jpg
     bio: >
-      <span class="fw8">Sr. Simone Campbell</span> is the Executive Director of NETWORK, a Catholic social justice lobby organization and founder of Nuns on the Bus. Sr. Simone addressed the 2012 National Democratic Convention. She has been featured in the national and international media including 60 Minutes, The Colbert Report, and others.
+      <span class="fw8">Sr. Simone Campbell</span> is the Executive Director of NETWORK, a Catholic social justice lobby organization and founder of Nuns on the Bus. Sr. Simone addressed the 2012 National Democratic Convention. She has been featured in the national and international media including <span class="i">60 Minutes</span>, <span class="i">The Colbert Report</span>, and others.
   - title: Racism & Privilege in the Church and Society
     name: Dr. Greer G. Gordon
     description: This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk.
     photo: /assets/images/bio2.jpg
     bio: >
-      <span class="fw8">Dr. Greer G. Gordon</span> is a Roman Catholic theologian, author, and lecturer known for her work in the field of apologetics, evangelization, and catechetics. She’s served in administrative positions at the University of Massachusetts, St. Regis College. She was diocesan director in Washington D.C., Oakland, Boston, and Baton Rouge.
+      <span class="fw8">Dr. Greer G. Gordon</span> is a Roman Catholic theologian, author, and lecturer known for her work in the field of apologetics, evangelization, and catechetics. She’s served in administrative positions at the University of Massachusetts and Regis College. She was diocesan director in Washington D.C., Oakland, Boston, and Baton Rouge.
+    extra: presentation by Baltimore Racial Justice Circle will follow
   - title: Pax Christi&#58; Called to be a People of Peace
     name: Sr. Patty Chappell, SNDdeN
     description: This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk. This is a spot for the description of the talk. Description of talk.
     photo: /assets/images/bio3.jpg
     bio: >
-      <span class="fw8">Sr. Patty Chappell</span> is the Executive Director of Pax Christi, USA., the largest Catholic Peace and Justice movement in the United States. She was president of the National Black Sisters Conference, 1996-2001. Sister Patty was trained by Crossroads in anti-racism training. In 2016, Sister brought the Pax Christi USA National Conference to Baltimore.
+      <span class="fw8">Sr. Patty Chappell</span> is the Executive Director of Pax Christi, USA., the largest Catholic Peace and Justice movement in the United States. She was president of the National Black Sisters Conference, 1996–2001. Sister Patty was trained by Crossroads in antiracism. In 2016, Sister brought the Pax Christi USA National Conference to Baltimore.
+    extra: Commentary by activist Sr. Megan Rice and author Dan Zak will follow
 focus:
   - title: Immigration, Sanctuary, Human Rights for All
     description: >
@@ -27,7 +29,7 @@ focus:
         <li class="f5 mt1">Latino Racial Justice Circle</li>
       </ul>
     photo: /assets/images/m1.svg
-  - title: LGBTQ and the Welcome Church<span class="f5 i"> 10:30am only</span>
+  - title: LGBTQ and the Welcoming Church<span class="f5 i"> 10:30am only</span>
     description: >
       <ul>
         <li class="f5 mt1">Fr. Joe Muth</li>
@@ -39,7 +41,7 @@ focus:
   - title: Caring for the Earth, Our Common Home
     description: >
       <ul>
-        <li class="f5 mt1">Patrick Carolan, Franciscan Action Network, will address &ldquoLaudato Si&rdquo</li>
+        <li class="f5 mt1">Patrick Carolan, Franciscan Action Network, will address <span class="i">Laudato Si</span></li>
         <li class="f5 mt1">Joelle Novey, Interfaith Power & Light</li>
         <li class="f5 mt1">Jodie Rose, Interfaith Partners for the Chesapeake</li>
       </ul>

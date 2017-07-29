@@ -10,7 +10,13 @@
       </div>
       <div class="flex flex-column flex-row-sm items-center mt6">
         <img src="{{ speaker.photo }}" class="w25 h25 mr6 mr12-md bio1" />
-        <p class="ptserif f5 lh-3 mt6 mt0-sm">{{ speaker.bio }}</p>
+        <div>
+          <p class="ptserif f5 lh-3 mt6 mt0-sm">{{ speaker.bio }}</p>
+          {% if speaker.extra %}
+            <p class="ptserif f5 i">{{ speaker.extra }}</p>
+          {% endif %}
+          </p>
+        </div>
       </div>
     </div>
     {% endfor %}
